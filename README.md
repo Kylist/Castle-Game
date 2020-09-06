@@ -1,5 +1,5 @@
 # Castle-Game
-
+Link to showcase our project: https://docs.google.com/presentation/d/17pmE2-M3LhW9hGdS_-vtd6MrzaQ1m76T0z6fkg7vuJ8/edit?usp=sharing
 
 ## Development Guides
 
